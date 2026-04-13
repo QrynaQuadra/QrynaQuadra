@@ -1,34 +1,38 @@
 # Merhaba, Ben Çağhan Özer! 👋
 
-### 🛠 Siber Güvenlik Araçları Geliştiricisi & Gömülü Sistemler Meraklısı
+### 🛠 Yazılım Geliştirici | Siber Güvenlik Araçları & Gömülü Sistemler
 
-Yazılım geliştirme süreçlerinde daha çok **siber güvenlik araçları** kodlamaya ve **donanım tabanlı projelere** odaklanıyorum. Şu anda aktif olarak savunma sanayii ve otonom sistemler üzerine kendimi geliştiriyorum.
-
----
-
-### 🛸 Şu An Ne Üzerinde Çalışıyorum?
-* **TEKNOFEST:** Otonom İHA projeleri üzerinde yazılım ve sistem entegrasyonu süreçlerini yürütüyorum.
-* **Security Tools:** Python ile otomatize edilmiş güvenlik analiz araçları ve scriptler geliştiriyorum.
-* **Hardware Hacking:** Attiny85, Arduino ve RFID sistemleri üzerinden donanım tabanlı sızma testleri üzerine deneyler yapıyorum.
+Donanım ve yazılımın kesiştiği noktada projeler geliştirmeyi seviyorum. Özellikle **Siber Güvenlik araçları** ve **Otonom Sistemler** üzerine odaklanıyorum. Şu anda TEKNOFEST kapsamında otonom İHA sistemleri üzerine çalışmaktayım.
 
 ---
 
-### 💻 Teknolojiler ve Araçlar
-* **Diller:** Python, C++, Bash
-* **Sistemler:** Linux (Power User), Windows
-* **Donanım:** Arduino, Attiny85, RFID, İHA Kontrol Kartları
-* **İlgi Alanları:** Cyber Security, Embedded Systems, Autonomous Vehicles
+### 🛸 Nelerle İlgileniyorum?
+* **Savunma Teknolojileri:** TEKNOFEST İHA projeleri için yazılım ve kontrol sistemleri geliştirme.
+* **Siber Güvenlik:** Python tabanlı otomatize güvenlik araçları ve sızma testi scriptleri.
+* **Donanım Programlama:** Arduino, Attiny85 ve RFID sistemleri ile donanım tabanlı hacking (BadUSB vb.).
+* **Sistem Yönetimi:** Linux terminalinde verimlilik ve otomasyon süreçleri.
 
 ---
 
-### 📊 İstatistikler
-![Çağhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QrynaQuadra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QrynaQuadra&layout=compact&theme=tokyonight)
+### 💻 Teknolojiler ve Yetkinlikler
+* **Diller:** `Python`, `C++`, `Bash`
+* **Araçlar:** `Linux Terminal`, `Git`, `Unreal Engine`
+* **Donanım:** `Arduino`, `Microcontrollers`, `Autonomous Flight Controllers`
 
 ---
 
-### 📫 Bana Ulaşın
-* **Telegram:** [t.me/xxYZ67888363119](https://t.me/xxYZ67888363119)
-* **GitHub:** [@QrynaQuadra](https://github.com/QrynaQuadra)
+### 📊 GitHub Aktivite Bilgileri
+*(Not: İstatistiklerin görünmesi için repolarının "Public" olması gerekir)*
 
-*"Siber dünyada güvenli bir gelecek için kodluyorum."*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QrynaQuadra&show_icons=true&theme=dark&hide_border=true" alt="Caghan's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QrynaQuadra&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="300" />
+</p>
+
+---
+
+### 📫 İletişim
+* **Telegram:** [Bana Buradan Ulaş](https://t.me/xxYZ67888363119)
+* **Instagram:** [@siberci_adam](https://www.instagram.com/siberci_adam)
+
+*"Siber dünyada güvenli ve otonom bir gelecek için kodluyorum."*
